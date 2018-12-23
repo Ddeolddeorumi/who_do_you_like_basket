@@ -1,7 +1,7 @@
 <style>
   h1 {
     margin: 0px;
-    font-size:2rem;
+    font-size:4rem;
   }
   img {
     padding: 5px;
@@ -20,9 +20,10 @@
     background-image: url("./images/kbl_logo_ai1.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-size: 30px 30px;
+    background-size: 100px 100px;
     background-position: right;
     margin: 15px;
+    font-size: 4rem;
   }
   #grid {
     display: block;
@@ -37,7 +38,7 @@
     background-color: gray;
     text
   }
-  #rem1{font-size:1rem;}
+  #rem1{font-size:2rem;}
 /*  @media(max-width:1000px){
   #grid{
     display: block;
