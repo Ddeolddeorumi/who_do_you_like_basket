@@ -1,0 +1,47 @@
+<style>
+  h1 {
+    margin: 0px;
+    font-size:2rem;
+  }
+  img {
+    padding: 5px;
+    border: 5px solid black;
+    background-color: white;
+  }
+  li {
+    text-align: center;
+    color: rgb(100, 0, 0);
+  }
+  a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+  #title{
+    background-image: url("./images/kbl_logo_ai1.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 30px 30px;
+    background-position: right;
+    margin: 15px;
+  }
+  #grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+  }
+  #inside {
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    border: 10px solid black;
+    background-color: gray;
+    text
+  }
+  #rem1{font-size:1rem;}
+  @media(max-width:450px){
+  #grid{
+    display: block;
+    }
+  }
+  #font1{font-family: 'Jua', sans-serif;}
+</style>
