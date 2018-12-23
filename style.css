@@ -38,7 +38,7 @@
     text
   }
   #rem1{font-size:1rem;}
-  @media(max-width:450px){
+  @media(max-width:1000px){
   #grid{
     display: block;
     }
