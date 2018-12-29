@@ -18,10 +18,10 @@
     color: rgb(0, 0, 0);
   }
   #title{
-    background-image: url("./images/kbl_logo_ai1.png");
+    background-image: url("./images/kbl_logo_ai.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-size: 100px 100px;
+    background-size: 100px 150px;
     background-position: right;
     margin: 15px;
     font-size: 4rem;
